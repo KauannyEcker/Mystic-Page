@@ -1,2 +1,11 @@
 # Mystic-Page
-KauannyEcker
+<!DOCTYPE html>
+<html lang="pt-br">
+    <h1>Mystic-Page</h1>
+
+    <p>Minha Primeira página.
+    Página para curioiade sobre mitos e coisas misticas.</p>
+
+    <p>sinta-se confortvel para fazer qualquer pergunta, <em>nenhuma dúvida é julgada como desnesseçaria ou besta</em>.</p>
+
+</html>
